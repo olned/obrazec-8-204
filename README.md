@@ -6,15 +6,15 @@ The original PDF has no interactive form fields. This project renders the PDF in
 
 ## Usage
 
-Serve the files with any static HTTP server and open in a browser:
+**[Open online](https://olned.github.io/obrazec-8-204/)** — no installation needed.
+
+Or run locally with any static HTTP server:
 
 ```bash
 npx serve
 # or
 python3 -m http.server 8000
 ```
-
-Or deploy to GitHub Pages, Netlify, or any static hosting.
 
 Features:
 - PDF rendered as background with editable input fields on top
